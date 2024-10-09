@@ -1,0 +1,102 @@
+{
+    "basics": {
+      "name": "João Ramalho Sampaio",
+      "label": "Desenvolvedor de Software",
+      "email": "j.ramalho@livecom",
+      "phone": "+55 11 99828-9081",
+      "birthDate": "02/06/2004",
+      "url": "https://github.com/Ramalhin",
+      "summary": "Ambitious and engaged software developer with a focus on machine learning, constantly developing both soft and hard skills.",
+      "location": {
+        "city": "São Paulo",
+        "countryCode": "BR"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "joão-ramalho-sampaio-3a1a75228",
+          "url": "https://br.linkedin.com/in/joão-ramalho-sampaio-3a1a75228/pt"
+        },
+        {
+          "network": "GitHub",
+          "username": "Ramalhin",
+          "url": "https://github.com/Ramalhin"
+        }
+      ]
+    },
+    "work": [],
+    "education": [
+      {
+        "institution": "Universidade Anhembi Morumbi",
+        "area": "Ciência da Computação",
+        "studyType": "Bachelor",
+        "startDate": "2022-02-01",
+        "endDate": "2025-12-31",
+        "expected": true
+      }
+    ],
+    "skills": [
+      {
+        "name": "Programming Languages",
+        "keywords": ["Java 21", "Python 3"]
+      },
+      {
+        "name": "Frameworks & Libraries",
+        "keywords": ["Spring Boot 3", "Spring Security", "Spring Web", "Spring JPA", "Hibernate", "JWT", "Junit 5 / Mockito", "Django 4.2", "PySide6", "PyMongo", "TensorFlow", "Scikit-Learn", "Pandas", "Keras"]
+      },
+      {
+        "name": "DevOps & Tools",
+        "keywords": ["Docker", "Kubernetes", "GitHub Actions"]
+      },
+      {
+        "name": "Databases",
+        "keywords": ["MySQL 8.0", "MongoDB 7.0"]
+      },
+      {
+        "name": "Methodologies & Concepts",
+        "keywords": ["TDD", "Design Patterns", "Agile (Scrum, Kanban)", "S.O.L.I.D"]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "B2"
+      },
+      {
+        "language": "Portuguese",
+        "fluency": "Native"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Telegram Bot",
+        "description": "An automatic channel promotion bot for Telegram, allowing users to register their channels for inclusion in promotion lists organized by categories.",
+        "highlights": ["Python", "MercadoPago", "Telegram-api", "MongoDB"],
+        "url": "https://github.com/Ramalhin/Telegram-Bot-Python"
+      },
+      {
+        "name": "RESTful API",
+        "description": "Development of a RESTful API with Docker support and deployment on an Amazon ECS cluster, implementing a continuous integration pipeline involving GitHub, GitHub Actions, and an ECS Cluster on Amazon AWS.",
+        "highlights": ["Spring framework", "Amazon AWS", "Docker"],
+        "url": "https://github.com/Ramalhin/Rest-with-Spring-Boot-and-Java-erudio"
+      },
+      {
+        "name": "Educational Financial ChatBox",
+        "description": "A university extension project where we worked as a team to develop a complete chat system, with market adherence.",
+        "highlights": [],
+        "url": ""
+      }
+    ],
+    "certificates": [
+      "Generative AI for Executives - Fundamentals",
+      "AWS Lambda Foundations",
+      "Comprehensive Python Course: From Basics to Advanced",
+      "RESTful APIs from 0 to AWS with Spring Boot 3, Java, and Docker",
+      "English for IT - B2 Level",
+      "Bootcamp Claro - Java 18 with Spring Boot 3",
+      "Six Sigma - White Belt",
+      "Machine Learning Specialist Training (In progress)",
+      "Java Developer Training",
+      "Microsoft Azure Advanced"
+    ]
+  }
